@@ -1,10 +1,10 @@
 # Data Science
 
-# Logs 
+### Logs 
 
 2019-09-23 repo forked   
 
-# Information  
+### Information  
 
 https://gobrief.com/   
 free unlimited time zoom calls so you dont have to restart every hour   
