@@ -4,7 +4,7 @@ Nov05/flask-spotify
 forked from Build-Week-Spotify-Song-Suggester/Data-science   
 DS Unit 4 Sprint 4 Build Week Spotify   
 
-### Project   
+## Project   
 
 **PROJECT NAME**  
 Spotify Song Suggester
@@ -58,11 +58,11 @@ WEB BACKEND (JAVA)
 Vicky Yue  
 Preston Middleton  
 
-### Logs 
+## Logs 
 
 2019-09-23 repo forked   
 
-### Information  
+## Information  
 
 https://gobrief.com/   
 free unlimited time zoom calls so you dont have to restart every hour   
