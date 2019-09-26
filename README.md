@@ -4,10 +4,11 @@ Nov05/flask-spotify
 forked from Build-Week-Spotify-Song-Suggester/Data-science   
 DS Unit 4 Sprint 4 Build Week Spotify   
 
-:point_right: Go to the app   
+## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
 https://5d8c991142a75800078cbcb4--spotifier-app.netlify.com/
-:point_right: Marketing page   
+
+## :point_right: Marketing page   
 https://spotifier.netlify.com/    
 
 【Note】     
@@ -25,7 +26,9 @@ Build Week repo
 https://github.com/Build-Week-Spotify-Song-Suggester    
 Plotly 3D Scatter Notebook (by Josh Fowlkes)      
 https://plot.ly/~beyond_brawn/1/running-the-model/#/    
-<img src="https://github.com/Nov05/pictures/blob/master/gifs/ezgif.com-video-to-gif.gif">   
+<img src="https://github.com/Nov05/pictures/blob/master/gifs/ezgif.com-video-to-gif.gif">  
+PostgreSQL database hosted on AWS   
+<img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2013_37_58-Microsoft%20Edge.png?raw=true">   
 
 ## Project   
 
