@@ -17,6 +17,13 @@ etc.
 
 <img src='https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2010_19_59-Microsoft%20Edge.jpg?raw=true' width=700>  
 
+## Deliverables  
+
+Build Week repo      
+https://github.com/Build-Week-Spotify-Song-Suggester    
+Plotly 3D Scatter Notebook (by Josh Fowlkes)      
+https://plot.ly/~beyond_brawn/1/running-the-model/#/    
+
 ## Project   
 
 **PROJECT NAME**  
@@ -77,17 +84,14 @@ Preston Middleton
 
 ## Information  
 
-Plotly 3D Scatter Notebook (by Josh Fowlkes)     
-https://plot.ly/~beyond_brawn/1/running-the-model/#/
+Integrate Plotly Dash Into Your Flask App    
+https://hackersandslackers.com/gaining-full-control-over-plotly-dash/   
 
 https://gobrief.com/   
 free unlimited time zoom calls so you dont have to restart every hour   
 
 https://airtable.com/shrXJLrenkHpSRWiV/tbln1vdyJbN0Nmte5  
 build week project list   
-
-Build Week repo  
-https://github.com/Build-Week-Spotify-Song-Suggester  
 
 Reference repo   
 https://github.com/bw-spotify/data-science
