@@ -81,6 +81,7 @@ Preston Middleton
 ## Logs 
 
 2019-09-23 repo forked   
+2019-09-26 app components hosted and ingegrated    
 
 ## Information  
 
