@@ -84,6 +84,9 @@ Preston Middleton
 
 ## Information  
 
+Plotly Dash Live Updating Components   
+https://dash.plot.ly/live-updates
+
 Integrate Plotly Dash Into Your Flask App    
 https://hackersandslackers.com/gaining-full-control-over-plotly-dash/   
 
