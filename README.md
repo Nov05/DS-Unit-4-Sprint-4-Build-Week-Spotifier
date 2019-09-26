@@ -27,7 +27,7 @@ https://github.com/Build-Week-Spotify-Song-Suggester
 Plotly 3D Scatter Notebook (by Josh Fowlkes)      
 https://plot.ly/~beyond_brawn/1/running-the-model/#/    
 <img src="https://github.com/Nov05/pictures/blob/master/gifs/ezgif.com-video-to-gif.gif">  
-PostgreSQL database hosted on AWS   
+PostgreSQL database hosted on AWS (by Nov05)     
 <img src="https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2013_37_58-Microsoft%20Edge.png?raw=true">   
 
 ## Project   
