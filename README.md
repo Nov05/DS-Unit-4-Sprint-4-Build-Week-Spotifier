@@ -7,6 +7,13 @@ DS Unit 4 Sprint 4 Build Week Spotify
 :point_right:Go to the app   
 https://5d8c991142a75800078cbcb4--spotifier-app.netlify.com/
 
+Note: 
+A lot of songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.       
+**An Ember In The Ashes (ASOT 874)**      
+**Old Town Road**    
+**Waiting for U**    
+etc.   
+
 <img src='https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2010_19_59-Microsoft%20Edge.jpg?raw=true' width=700>  
 
 ## Project   
