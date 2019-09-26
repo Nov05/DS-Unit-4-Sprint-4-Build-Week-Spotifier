@@ -77,6 +77,9 @@ Preston Middleton
 
 ## Information  
 
+Plotly 3D Scatter Notebook (by Josh Fowlkes)     
+https://plot.ly/~beyond_brawn/1/running-the-model/#/
+
 https://gobrief.com/   
 free unlimited time zoom calls so you dont have to restart every hour   
 
