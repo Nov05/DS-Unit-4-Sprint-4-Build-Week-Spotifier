@@ -12,13 +12,16 @@ https://5d8c991142a75800078cbcb4--spotifier-app.netlify.com/
 https://spotifier.netlify.com/    
 
 【Note】     
-A lot of songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.     
+Some of the songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.     
 **An Ember In The Ashes (ASOT 874)**      
 **Old Town Road**    
 **Waiting for U**    
-etc.   
-
+etc.    
 <img src='https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2010_19_59-Microsoft%20Edge.jpg?raw=true' width=700>  
+
+## Architecture
+
+React Frontend + Java Backend + PostgreSQL on AWS  
 
 ## Deliverables  
 
@@ -105,3 +108,37 @@ build week project list
 
 Reference repo   
 https://github.com/bw-spotify/data-science
+
+Backend endpoints   
+Vicky Yue:21-red: 03:18   
+----- E N D P O I N T S -----   
+Endpoints that do not say ‘No Auth Required’ or Log In/Register/Log Out will all require authentication
+Register   
+POST - https://spotify-song-suggester.herokuapp.com/createnewuser   
+--- parameters ---   
+- username   
+- password   
+*Log In*   
+GET - https://spotify-song-suggester.herokuapp.com/login   
+--- takes in ---   
+- username   
+- password   
+Log Out   
+GET - https://spotify-song-suggester.herokuapp.com/oauth/revoke-token   
+Get All Tracks (for testing) - No Auth Required   
+GET - https://spotify-song-suggester.herokuapp.com/tracks/tracks   
+- Limit 10 per page   
+Get Track By Name (trackid) - No Auth Required   
+GET - https://spotify-song-suggester.herokuapp.com/tracks/track/{name}   
+Save/Favorite Track by Name (trackid)   
+POST - https://spotify-song-suggester.herokuapp.com/tracks/save/{trackid}   
+Get User’s Saved/Favorited Tracks   
+GET - https://spotify-song-suggester.herokuapp.com/tracks/savedtracks   
+Get Suggested/Recommended Tracks by Name (trackid) - No Auth Required   
+GET - https://spotify-song-suggester.herokuapp.com/tracks/recs/{trackid}   
+- returns 10 similar songs with song details   
+Remove Song From Saved/Favorited   
+DELETE - https://spotify-song-suggester.herokuapp.com/tracks/remove/{trackid}   
+    
+    
+    
