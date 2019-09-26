@@ -62,20 +62,20 @@ Dataset: https://www.kaggle.com/tomigelo/spotify-audio-features
 
 **TYPE**  
 Data Science Hybrid Apps  
-DATA ENGINEER  
+**DATA ENGINEER**  
 Harsh Desai  
 Josh Fowlkes  
-MACHINE LEARNING ENGINEERS  
-***
-WEB UI DEVELOPER  
+**MACHINE LEARNING ENGINEERS**  
+*
+**WEB UI DEVELOPER**  
 Theresa Jackson  
-WEB REACT I  
+**WEB REACT I**  
 Dylan Mestyanek  
 Johnathan Shoff  
 Uzoamaka Grace Anyanwu  
-WEB REACT II  
+**WEB REACT II**  
 Matthew Masters  
-WEB BACKEND (JAVA)  
+**WEB BACKEND (JAVA)**  
 Vicky Yue  
 Preston Middleton  
 
