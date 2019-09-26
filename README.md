@@ -111,6 +111,7 @@ https://github.com/bw-spotify/data-science
 
 Backend endpoints   
 Vicky Yue:21-red: 03:18   
+```
 ----- E N D P O I N T S -----   
 Endpoints that do not say ‘No Auth Required’ or Log In/Register/Log Out will all require authentication
 Register   
@@ -139,6 +140,6 @@ GET - https://spotify-song-suggester.herokuapp.com/tracks/recs/{trackid}
 - returns 10 similar songs with song details   
 Remove Song From Saved/Favorited   
 DELETE - https://spotify-song-suggester.herokuapp.com/tracks/remove/{trackid}   
-    
+```   
     
     
