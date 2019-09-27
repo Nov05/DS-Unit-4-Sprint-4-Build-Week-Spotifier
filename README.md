@@ -4,12 +4,17 @@ Nov05/flask-spotify
 forked from Build-Week-Spotify-Song-Suggester/Data-science   
 DS Unit 4 Sprint 4 Build Week Spotify   
 
+Frontend (React) + Backend (Java Spring) + Database (PostgreSQL on AWS) + Machine Learning (sklearn.neighbors.KDTree)
+
 ## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
 https://5d8c991142a75800078cbcb4--spotifier-app.netlify.com/
 
 ## :point_right: Marketing page   
 https://spotifier.netlify.com/    
+
+## :point_right: Presentation   
+https://www.youtube.com/watch?v=d3GrBrgw7kQ  
 
 【Note】     
 Some of the songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.     
