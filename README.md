@@ -10,7 +10,8 @@ https://5d8c991142a75800078cbcb4--spotifier-app.netlify.com/
 https://spotifier.netlify.com/    
 
 ## :point_right: Presentation   
-https://www.youtube.com/watch?v=d3GrBrgw7kQ  
+Pre-recorded https://www.youtube.com/watch?v=d3GrBrgw7kQ   
+live https://www.youtube.com/watch?v=n7z-QYxScXM    
 
 【Note】     
 Some of the songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.     
