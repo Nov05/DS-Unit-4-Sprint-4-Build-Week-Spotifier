@@ -1,8 +1,6 @@
 # Data Science
 
-Nov05/flask-spotify    
-forked from Build-Week-Spotify-Song-Suggester/Data-science   
-DS Unit 4 Sprint 4 Build Week Spotify        
+DS Unit 4 Sprint 4 Build Week Project【Spotify】        
 
 ## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
