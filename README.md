@@ -73,18 +73,18 @@ Web:
 Dataset: https://www.kaggle.com/tomigelo/spotify-audio-features  
 
 **TYPE**  
-Data Science Hybrid Apps  
+Data Science Hybrid Apps    
 **DATA ENGINEER**  
-Harsh Desai  
-Josh Fowlkes  
-**MACHINE LEARNING ENGINEERS**  
-*
+Harsh Desai    
+Josh Fowlkes    
+**MACHINE LEARNING ENGINEERS**     
+Nov05    
 **WEB UI DEVELOPER**  
-Theresa Jackson  
-**WEB REACT I**  
+Theresa Jackson    
+**WEB REACT I**     
 Dylan Mestyanek  
 Johnathan Shoff  
-Uzoamaka Grace Anyanwu  
+Uzoamaka Grace Anyanwu    
 **WEB REACT II**  
 Matthew Masters  
 **WEB BACKEND (JAVA)**  
@@ -128,7 +128,7 @@ POST - https://spotify-song-suggester.herokuapp.com/createnewuser
 --- parameters ---   
 - username   
 - password   
-*Log In*   
+Log In   
 GET - https://spotify-song-suggester.herokuapp.com/login   
 --- takes in ---   
 - username   
