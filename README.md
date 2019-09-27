@@ -2,12 +2,7 @@
 
 Nov05/flask-spotify    
 forked from Build-Week-Spotify-Song-Suggester/Data-science   
-DS Unit 4 Sprint 4 Build Week Spotify   
-
-Frontend (React) +     
-Backend (Java Spring) +     
-Database (PostgreSQL on AWS) +    
-Machine Learning (sklearn.neighbors.KDTree)     
+DS Unit 4 Sprint 4 Build Week Spotify        
 
 ## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
@@ -29,7 +24,10 @@ etc.
 
 ## Architecture
 
-React Frontend + Java Backend + PostgreSQL on AWS  
+Frontend (React) +     
+Backend (Java Spring) +     
+Database (PostgreSQL on AWS) +    
+Machine Learning (sklearn.neighbors.KDTree)    
 
 ## Deliverables  
 
