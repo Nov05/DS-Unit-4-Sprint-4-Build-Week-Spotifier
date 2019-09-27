@@ -1,6 +1,6 @@
 # Data Science
 
-DS Unit 4 Sprint 4 Build Week Project【Spotify】        
+DS Unit 4 Sprint 4 Build Week Project【Spotifier】        
 
 ## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
