@@ -23,7 +23,7 @@ etc.
 ## Architecture
 
 Frontend (React) +     
-Backend (Java Spring) +     
+Backend (Java Spring on Heroku) +     
 Database (PostgreSQL on AWS) +    
 Machine Learning (sklearn.neighbors.KDTree)    
 
@@ -100,6 +100,9 @@ presentation video made
 
 ## Information  
 
+Project Management   
+https://trello.com/b/q5r2jWxw/spotify-song-suggester    
+ 
 Create PostgreSQL Database on AWS and Import Data from CSV file     
 https://medium.com/@lwj.liuwenjing/create-postgresql-database-on-aws-and-import-data-from-csv-file-89bf80df59cc     
 
