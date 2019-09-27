@@ -100,6 +100,9 @@ presentation video made
 
 ## Information  
 
+Create PostgreSQL Database on AWS and Import Data from CSV file     
+https://medium.com/@lwj.liuwenjing/create-postgresql-database-on-aws-and-import-data-from-csv-file-89bf80df59cc     
+
 sklearn.neighbors.KDTree       
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KDTree.html    
  
