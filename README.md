@@ -94,10 +94,15 @@ Preston Middleton
 ## Logs 
 
 2019-09-23 repo forked   
-2019-09-26 app components hosted and ingegrated    
+2019-09-26   
+app components hosted and ingegrated   
+presentation video made          
 
 ## Information  
 
+sklearn.neighbors.KDTree       
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KDTree.html    
+ 
 Plotly Dash Live Updating Components   
 https://dash.plot.ly/live-updates
 
