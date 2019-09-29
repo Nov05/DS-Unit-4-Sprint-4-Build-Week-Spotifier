@@ -126,35 +126,52 @@ Reference repo
 https://github.com/bw-spotify/data-science
 
 Backend endpoints   
-Vicky Yue:21-red: 03:18   
+Vicky Yue:21-red: 03:18    
+https://lambdaschoolstudents.slack.com/archives/GNMGV899V/p1569447790054800   
+**----- E N D P O I N T S -----**     
+Endpoints that do not say ‘No Auth Required’ or Log In/Register/Log Out will all require authentication    
+**Register**   
 ```
------ E N D P O I N T S -----   
-Endpoints that do not say ‘No Auth Required’ or Log In/Register/Log Out will all require authentication
-Register   
-POST - https://spotify-song-suggester.herokuapp.com/createnewuser   
---- parameters ---   
-- username   
-- password   
-Log In   
+POST - https://spotify-song-suggester.herokuapp.com/createnewuser      
+--- parameters ---      
+- username      
+- password 
+```
+**Log In**      
+````
 GET - https://spotify-song-suggester.herokuapp.com/login   
 --- takes in ---   
 - username   
-- password   
-Log Out   
+- password 
+```
+**Log Out**   
+```
 GET - https://spotify-song-suggester.herokuapp.com/oauth/revoke-token   
-Get All Tracks (for testing) - No Auth Required   
-GET - https://spotify-song-suggester.herokuapp.com/tracks/tracks   
+```
+**Get All Tracks (for testing) - No Auth Required**   
+```
+GET - https://spotify-song-suggester.herokuapp.com/tracks/tracks  
 - Limit 10 per page   
-Get Track By Name (trackid) - No Auth Required   
+```
+**Get Track By Name (trackid) - No Auth Required**    
+```
 GET - https://spotify-song-suggester.herokuapp.com/tracks/track/{name}   
-Save/Favorite Track by Name (trackid)   
+```
+**Save/Favorite Track by Name (trackid)**    
+```
 POST - https://spotify-song-suggester.herokuapp.com/tracks/save/{trackid}   
-Get User’s Saved/Favorited Tracks   
-GET - https://spotify-song-suggester.herokuapp.com/tracks/savedtracks   
-Get Suggested/Recommended Tracks by Name (trackid) - No Auth Required   
-GET - https://spotify-song-suggester.herokuapp.com/tracks/recs/{trackid}   
-- returns 10 similar songs with song details   
-Remove Song From Saved/Favorited   
+```
+**Get User’s Saved/Favorited Tracks**   
+```
+GET - https://spotify-song-suggester.herokuapp.com/tracks/savedtracks  
+```
+**Get Suggested/Recommended Tracks by Name (trackid) - No Auth Required**   
+```
+GET - https://spotify-song-suggester.herokuapp.com/tracks/recs/{trackid} 
+- returns 10 similar songs with song details  
+```
+**Remove Song From Saved/Favorited**   
+```
 DELETE - https://spotify-song-suggester.herokuapp.com/tracks/remove/{trackid}   
 ```   
     
