@@ -1,6 +1,7 @@
 # Data Science
 
-DS Unit 4 Sprint 4 Build Week Project【Spotifier】        
+DS Unit 4 Sprint 4 Build Week Project【Spotifier】   
+Spotifier is a Spotify song suggester app.   
 
 ## :point_right: Go to the app   
 https://spotifier-app.netlify.com/     
