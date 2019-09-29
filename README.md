@@ -137,13 +137,13 @@ POST - https://spotify-song-suggester.herokuapp.com/createnewuser
 - username      
 - password 
 ```
-**Log In**      
-````
+**Log In**  
+```
 GET - https://spotify-song-suggester.herokuapp.com/login   
 --- takes in ---   
 - username   
 - password 
-```
+```  
 **Log Out**   
 ```
 GET - https://spotify-song-suggester.herokuapp.com/oauth/revoke-token   
