@@ -15,11 +15,7 @@ Pre-recorded https://www.youtube.com/watch?v=d3GrBrgw7kQ
 live https://www.youtube.com/watch?v=n7z-QYxScXM    
 
 【Note】     
-Some of the songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, the following songs are playable through the app.     
-**An Ember In The Ashes (ASOT 874)**      
-**Old Town Road**    
-**Waiting for U**    
-etc.    
+A couple of the songs in the app database are no longer active on Spotify, some might not be available in the area you are now. So far in the US, most songs are playable through the app.     
 <img src='https://github.com/Nov05/pictures/blob/master/pic001/2019-09-26%2010_19_59-Microsoft%20Edge.jpg?raw=true' width=700>  
 
 ## Architecture
